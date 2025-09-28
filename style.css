@@ -1,0 +1,35 @@
+body {
+  font-family: "微軟正黑體", sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #005f73;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #ffd166;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+}
+
+.formula {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #073b4c;
+}
+
+#visitor-count {
+  margin-top: 2em;
+  font-size: 1.2em;
+  color: #118ab2;
+}
